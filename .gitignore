@@ -39,3 +39,7 @@ config.rst
 /.pydevproject
 
 package-lock.json
+
+# 
+ignore model
+*.sav
